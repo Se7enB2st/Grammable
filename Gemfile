@@ -1,5 +1,11 @@
 source 'https://rubygems.org'
 
+#Fog gem
+gem 'fog'
+
+#Figaro gem
+gem 'figaro'
+
 #Carrierwave gem
 gem 'carrierwave'
 
