@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#Carrierwave gem
+gem 'carrierwave'
+
 #Devise gem
 gem 'devise', '>= 3.2.4'
 
