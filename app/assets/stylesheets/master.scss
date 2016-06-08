@@ -1,0 +1,27 @@
+body {
+  background-color: #fafafa;
+  font-family: 'Josefin Sans', sans-serif;
+}
+.top-nav {
+  background-color:white;
+  border-bottom-color: #edeeee;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  height: 70px;
+  padding-top: 15px;
+  background: url('/assets/school.png');
+}
+.top-nav .add {
+  margin-top:10px;
+}
+.top-nav .add a{
+  font-weight: bold;
+  color: #f1526a;
+  font-size: 16px;
+  padding-left: 8px;
+}
+.brand {
+  color: #51c491;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+}
