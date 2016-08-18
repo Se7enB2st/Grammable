@@ -1,5 +1,0 @@
-== README
-
-https://grammable-ethan-he.herokuapp.com/
-
-Grammable is an simple instagram clone built using Test Driven Development with technologies like RSpec and FactoryGirl.
